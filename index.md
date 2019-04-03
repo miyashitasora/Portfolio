@@ -3,8 +3,8 @@
 
 내용 수정은  
 맨위 제목은 Repository 이름 (만들 때 잘만들어야 함)   
-그 아래 소제목은 Repository 설명 (github에서 위쪽 edit 버튼을 눌러서 수정)  
-나머지는 index.md 파일을  수정  
+그 아래 소제목은 Repository 설명 (github에서 Settings 오른쪽 아래 edit 버튼을 눌러서 수정)  
+나머지는 index.md 파일을 직접 수정 (github에서 파일 이름을 누르고 오른쪽에 연필 버튼)     
 
 엔터 안 먹힘
 줄 바꿀 때는 마지막에 스페이스바 두번  
