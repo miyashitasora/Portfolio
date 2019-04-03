@@ -1,5 +1,9 @@
+테마 변경은 오른쪽 위 Settings에서 스크롤 내려서 Github Pages에서 변경 가능  
+
+내용 수정은  
 맨위 제목은 Repository 이름  
 그 아래 소제목은 Repository 설명  
+나머지는 index.md 파일 수정  
 
 엔터 안 먹힘
 줄 바꿀 때는 마지막에 스페이스바 두번  
@@ -29,4 +33,21 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 ```
   
   
+# 設定集＃１　春の姫  
   
+<img src="./settei/ed0004.jpg" width="50%"><img src="./settei/ed0003.jpg" width="50%">   
+<img src="./settei/ed0006.jpg" width="50%"><img src="./settei/ed0007.jpg" width="50%">   
+<img src="./settei/ed0036.jpg" width="50%"><img src="./settei/ed0035.jpg" width="50%">   
+  
+링크는 https://twitter.com/thfk2981 그냥 써도 걸리고  
+[Twitter](https://twitter.com/thfk2981)  
+이름을 바꿔서 링크 걸 수도 있음  
+  
+<img src="./settei/ed0094.jpg" width="50%"><img src="./settei/ed0093.jpg" width="50%">   
+
+동영상은 못 넣음  
+대신 http://embedyoutube.org/ 여기를 이용하면  
+  
+[![](http://img.youtube.com/vi/bQ4B4UH3kyk/0.jpg)](http://www.youtube.com/watch?v=bQ4B4UH3kyk "")  
+  
+썸네일 따와서 링크를 만들어 주기는 함  
