@@ -48,6 +48,6 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 동영상은 못 넣음  
 대신 http://embedyoutube.org/ 여기를 이용하면  
   
-[![](http://img.youtube.com/vi/bQ4B4UH3kyk/0.jpg)]("http://www.youtube.com/watch?v=bQ4B4UH3kyk")  
+[![](http://img.youtube.com/vi/bQ4B4UH3kyk/0.jpg)](http://www.youtube.com/watch?v=bQ4B4UH3kyk)  
   
 썸네일 따와서 링크를 만들어 주기는 함  
