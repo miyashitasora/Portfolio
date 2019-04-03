@@ -17,6 +17,7 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 <img src="./gennkou1/320.jpg" width="50%"><img src="./gennkou1/3.jpg" width="50%">    
 
 그림은 그냥 html 코드로  
+그림 크기는 퍼센트로 지정하면 모바일에서도 보기 편함  
   
 ## #하고 스페이스바 한번으로 제목 설정 가능  
 ### #갯수로 글씨 크기 조정  
@@ -39,7 +40,7 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 <img src="./settei/ed0006.jpg" width="50%"><img src="./settei/ed0007.jpg" width="50%">   
 <img src="./settei/ed0036.jpg" width="50%"><img src="./settei/ed0035.jpg" width="50%">   
   
-링크는 https://twitter.com/thfk2981 그냥 써도 걸리고  
+링크는 https://twitter.com/thfk2981 그냥 써도 걸리고 (모바일에서는 안 걸리네)    
 [Twitter](https://twitter.com/thfk2981)  
 이름을 바꿔서 링크 걸 수도 있음  
   
@@ -51,4 +52,4 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 [![](http://img.youtube.com/vi/bQ4B4UH3kyk/0.jpg)](http://www.youtube.com/watch?v=bQ4B4UH3kyk)  
   
 썸네일 따와서 링크를 만들어 주기는 함  
-근데 마지막 따옴표 지워줘야 함  
+근데 마지막 있는 따옴표 지워줘야 함  
