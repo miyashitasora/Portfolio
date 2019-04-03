@@ -51,3 +51,4 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 [![](http://img.youtube.com/vi/bQ4B4UH3kyk/0.jpg)](http://www.youtube.com/watch?v=bQ4B4UH3kyk)  
   
 썸네일 따와서 링크를 만들어 주기는 함  
+근데 마지막 따옴표 지워줘야 함  
