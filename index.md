@@ -1,4 +1,5 @@
-테마 변경은 오른쪽 위 Settings에서 스크롤 내려서 Github Pages에서 변경 가능  
+웹페이지 만들기는 Github에서 오른쪽 위 Settings에서 스크롤 내려서 Github Pages 그다음 Source에서 master branch 선택  
+그 아래가 테마 변경    
 
 내용 수정은  
 맨위 제목은 Repository 이름  
