@@ -1,2 +1,2 @@
-__TEST__
-![TEST](/genkou1/1.png)
+__TEST__  
+![TEST](/gennkou1/1.jpg)
