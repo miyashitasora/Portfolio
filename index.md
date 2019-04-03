@@ -40,9 +40,8 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 <img src="./settei/ed0006.jpg" width="50%"><img src="./settei/ed0007.jpg" width="50%">   
 <img src="./settei/ed0036.jpg" width="50%"><img src="./settei/ed0035.jpg" width="50%">   
   
-링크는 https://twitter.com/thfk2981 그냥 써도 걸리고 (모바일에서는 안 걸리네)    
+링크는 괄호는 이용해서 검  
 [Twitter](https://twitter.com/thfk2981)  
-이름을 바꿔서 링크 걸 수도 있음  
   
 <img src="./settei/ed0094.jpg" width="50%"><img src="./settei/ed0093.jpg" width="50%">   
 
