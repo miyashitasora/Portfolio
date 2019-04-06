@@ -19,7 +19,7 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 <img src="./gennkou3/276.jpg" width="50%"><img src="./gennkou3/3.jpg" width="50%"> 
 <img src="./gennkou4/239.jpg" width="50%"><img src="./gennkou4/3.jpg" width="50%"> 
 <img src="./gennkou5/320.jpg" width="50%"><img src="./gennkou5/3.jpg" width="50%"> 
-__目次と後ろのページ__  
+              __目次と後ろのページ__  
   
   
 ## #하고 스페이스바 한번으로 제목 설정 가능  
