@@ -15,7 +15,10 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 <img src="./gennkou5/hyou/mae.jpg">  
 
 <img src="./gennkou1/320.jpg" width="50%"><img src="./gennkou1/3.jpg" width="50%">    
-
+<img src="./gennkou1/320.jpg" width="50%"><img src="./gennkou2/3.jpg" width="50%"> 
+<img src="./gennkou1/320.jpg" width="50%"><img src="./gennkou3/3.jpg" width="50%"> 
+<img src="./gennkou1/320.jpg" width="50%"><img src="./gennkou4/3.jpg" width="50%"> 
+<img src="./gennkou1/320.jpg" width="50%"><img src="./gennkou5/3.jpg" width="50%"> 
 그림은 그냥 html 코드로  
 그림 크기는 퍼센트로 지정하면 모바일에서도 보기 편함  
   
