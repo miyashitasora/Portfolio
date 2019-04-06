@@ -44,18 +44,18 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 
 # 3巻  
   
-<img src="./gennkou3/5.jpg" width="50%"><img src="./gennkou2/4.jpg" width="50%">   
-<img src="./gennkou3/7.png" width="50%"><img src="./gennkou2/6.png" width="50%">  
+<img src="./gennkou3/5.jpg" width="50%"><img src="./gennkou3/4.jpg" width="50%">   
+<img src="./gennkou3/7.png" width="50%"><img src="./gennkou3/6.png" width="50%">  
 
 # 4巻  
   
-<img src="./gennkou3/5.jpg" width="50%"><img src="./gennkou2/4.jpg" width="50%">   
-<img src="./gennkou3/7.png" width="50%"><img src="./gennkou2/6.png" width="50%">  
+<img src="./gennkou4/5.jpg" width="50%"><img src="./gennkou4/4.jpg" width="50%">   
+<img src="./gennkou4/7.png" width="50%"><img src="./gennkou4/6.png" width="50%">  
 
 # 5巻  
   
-<img src="./gennkou3/5.jpg" width="50%"><img src="./gennkou2/4.jpg" width="50%">   
-<img src="./gennkou3/7.png" width="50%"><img src="./gennkou2/6.png" width="50%">  
+<img src="./gennkou5/5.jpg" width="50%"><img src="./gennkou5/4.jpg" width="50%">   
+<img src="./gennkou5/7.png" width="50%"><img src="./gennkou5/6.png" width="50%">  
 
 詳しい内容のサイト
 [サイト](http://ncode.syosetu.com/n0034dw/)  
