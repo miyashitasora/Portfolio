@@ -19,8 +19,8 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 <img src="./gennkou3/276.jpg" width="50%"><img src="./gennkou3/3.jpg" width="50%"> 
 <img src="./gennkou4/239.jpg" width="50%"><img src="./gennkou4/3.jpg" width="50%"> 
 <img src="./gennkou5/320.jpg" width="50%"><img src="./gennkou5/3.jpg" width="50%"> 
-그림은 그냥 html 코드로  
-그림 크기는 퍼센트로 지정하면 모바일에서도 보기 편함  
+__目次と後ろのページ__  
+  
   
 ## #하고 스페이스바 한번으로 제목 설정 가능  
 ### #갯수로 글씨 크기 조정  
