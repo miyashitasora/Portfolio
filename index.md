@@ -21,37 +21,70 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 <img src="./gennkou5/320.jpg" width="50%"><img src="./gennkou5/3.jpg" width="50%"> 
               __目次と後ろのページ__  
   
+ 
   
-## #하고 스페이스바 한번으로 제목 설정 가능  
-### #갯수로 글씨 크기 조정  
 # １巻  
   
 <img src="./gennkou1/5.jpg" width="50%"><img src="./gennkou1/4.jpg" width="50%">   
 <img src="./gennkou1/7.jpg" width="50%"><img src="./gennkou1/6.jpg" width="50%">   
   
 ```
-  '''이걸로 감싸서 강조하는 것도 가능
+  
   「こんにちは」
   ドアを開けて入ると、馴染みの女が座っていた。
   彼女は突然の来訪にも動かず、作業していた手を止めて俺に笑いかけてきた。
 ```
   
   
+# 2巻  
+  
+<img src="./gennkou2/5.jpg" width="50%"><img src="./gennkou2/4.jpg" width="50%">   
+<img src="./gennkou2/7.png" width="50%"><img src="./gennkou2/6.png" width="50%">  
+
+
+# 3巻  
+  
+<img src="./gennkou3/5.jpg" width="50%"><img src="./gennkou2/4.jpg" width="50%">   
+<img src="./gennkou3/7.png" width="50%"><img src="./gennkou2/6.png" width="50%">  
+
+# 4巻  
+  
+<img src="./gennkou3/5.jpg" width="50%"><img src="./gennkou2/4.jpg" width="50%">   
+<img src="./gennkou3/7.png" width="50%"><img src="./gennkou2/6.png" width="50%">  
+
+# 5巻  
+  
+<img src="./gennkou3/5.jpg" width="50%"><img src="./gennkou2/4.jpg" width="50%">   
+<img src="./gennkou3/7.png" width="50%"><img src="./gennkou2/6.png" width="50%">  
+
+詳しい内容のサイト
+[サイト](http://ncode.syosetu.com/n0034dw/)  
+
+
 # 設定集＃１　春の姫  
   
-<img src="./settei/ed0004.jpg" width="50%"><img src="./settei/ed0003.jpg" width="50%">   
-<img src="./settei/ed0006.jpg" width="50%"><img src="./settei/ed0007.jpg" width="50%">   
-<img src="./settei/ed0036.jpg" width="50%"><img src="./settei/ed0035.jpg" width="50%">   
+<img src="./settei/ed0004.jpg" width="50%"><img src="./settei/ed0003.jpg" width="50%">  
+<img src="./settei/ed0006.jpg" width="50%"><img src="./settei/ed0007.jpg" width="50%">  
+<img src="./settei/ed0008.jpg" width="50%"><img src="./settei/ed0009.jpg" width="50%">   
+<img src="./settei/ed0010.jpg" width="50%"><img src="./settei/ed0011.jpg" width="50%">   
+<img src="./settei/ed0012.jpg" width="50%"><img src="./settei/ed0013.jpg" width="50%">   
+<img src="./settei/ed0014.jpg" width="50%"><img src="./settei/ed0015.jpg" width="50%">   
+<img src="./settei/ed0016.jpg" width="50%"><img src="./settei/ed0017.jpg" width="50%">   
+<img src="./settei/ed0035.jpg" width="50%"><img src="./settei/ed0036.jpg" width="50%">   
+<img src="./settei/ed0037.jpg" width="50%"><img src="./settei/ed0038.jpg" width="50%">   
+<img src="./settei/ed0039.jpg" width="50%"><img src="./settei/ed0040.jpg" width="50%">   
+<img src="./settei/ed0046.jpg" width="50%"><img src="./settei/ed0047.jpg" width="50%">   
+<img src="./settei/ed0048.jpg" width="50%"><img src="./settei/ed0049.jpg" width="50%">   
+<img src="./settei/ed0090.jpg" width="50%"><img src="./settei/ed0091.jpg" width="50%">   
+<img src="./settei/ed0109.jpg" width="50%"><img src="./settei/ed0110.jpg" width="50%">   
+<img src="./settei/ed0115.jpg" width="50%"><img src="./settei/ed0120.jpg" width="50%">   
   
-링크는 괄호는 이용해서 검  
-[Twitter](https://twitter.com/thfk2981)  
+  
+  
   
 <img src="./settei/ed0094.jpg" width="50%"><img src="./settei/ed0093.jpg" width="50%">   
 
-동영상은 못 넣음  
-대신 http://embedyoutube.org/ 여기를 이용하면  
+OST Sample
   
 [![](http://img.youtube.com/vi/bQ4B4UH3kyk/0.jpg)](http://www.youtube.com/watch?v=bQ4B4UH3kyk)  
-  
-썸네일 따와서 링크를 만들어 주기는 함  
-근데 마지막 있는 따옴표 지워줘야 함  
+
