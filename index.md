@@ -56,7 +56,7 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 <img src="./gennkou5/66.jpg" width="50%"><img src="./gennkou5/65.jpg" width="50%">   
 <img src="./gennkou5/7.png" width="50%"><img src="./gennkou5/6.png" width="50%">  
 
-詳しい内容のサイト
+詳しい内容のサイト  
 [サイト1](http://ncode.syosetu.com/n0034dw/)  
 [サイト2](https://www.pixiv.net/member.php?id=1181456)  
 
