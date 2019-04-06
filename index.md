@@ -54,7 +54,7 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
 
 # 5巻  
   
-<img src="./gennkou5/5.jpg" width="50%"><img src="./gennkou5/4.jpg" width="50%">   
+<img src="./gennkou5/66.jpg" width="50%"><img src="./gennkou5/65.jpg" width="50%">   
 <img src="./gennkou5/7.png" width="50%"><img src="./gennkou5/6.png" width="50%">  
 
 詳しい内容のサイト
