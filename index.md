@@ -81,7 +81,7 @@ __同人活動で私がメインプロヂューサーをしたライトノベル
   
   
   
-<img src="./settei/ed0095.jpg" width="50%"><img src="./settei/ed0096.jpg" width="50%">     
+  
 <img src="./settei/ed0094.jpg" width="50%"><img src="./settei/ed0093.jpg" width="50%">   
 
 OST Sample
